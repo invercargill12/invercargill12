@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vanya, 26 y.o.
+- 👋 Hi, I’m Vanya, 27 y.o.
 - 👀 I’m interested in computer science, backend development
 - 🌱 I’m currently learning python, bash, git
 - 💞️ I’m looking to collaborate on open-source project
