@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanya, 27 y.o.
-- 💞️ I’m looking to collaborate on open-source project
+- 💞️ I'm a Performance Engineer passionate about making apps more user-friendly, fast, and reliable. Some technologies I enjoy working with include Apache JMeter, Python, and Grafana.
 - 📫 How to reach me: ivnoyev@yandex.ru
 
 <!---
